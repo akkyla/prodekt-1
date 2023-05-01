@@ -8,7 +8,7 @@ text-decoration:none    ;
 html {
 background:#7FFFD4
 ;
-color:green;
+color:rgb(66, 23, 144);
 }
 img{
 width:60%;
@@ -22,5 +22,11 @@ margin:auto   ;
 font-family: 'Nunito', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 }
+h4{
+  margin-bottom: 0;
+  margin-top: 0;
+  
+  
+  }
 
 
